@@ -1,3 +1,5 @@
+# New version available [here](https://github.com/tonyrobots/dcc-qol).
+
 # DCC Quality of Life Improvements
 
 This module extends the functionality of the Dungeon Crawl Classics module.

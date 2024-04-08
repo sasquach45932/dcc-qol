@@ -1,4 +1,4 @@
-# New version available [here](https://github.com/tonyrobots/dcc-qol).
+# This is an archive repository, new repository is [here](https://github.com/tonyrobots/dcc-qol).
 
 # DCC Quality of Life Improvements
 
